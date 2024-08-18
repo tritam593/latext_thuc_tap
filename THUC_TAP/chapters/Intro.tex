@@ -1,0 +1,38 @@
+
+Tổng quan về lãnh vực nghiên cứu.
+
+
+Một trong những giả thuyết tồn tại từ lâu trong deep learning, đó là nghiên cứu cách mà  một mạng DL hoạt động dưới tác động của một nhóm  biến dạng vô cùng nhỏ. Tôi quan tâm tới vấn đề này saubài nói chuyện của Stephanee Mallet tại trường ĐHKHTN năm 2023.
+Cụ thể hơn, một lý thuyết deep learning tốt phải thỏa mãn một số tiêu chuẩn:
+-Bất biến dưới tác động của nhóm các biến dạng vô cùng nhỏ. Ví dụ, như bài toán nhận dạng, phải giữ vững được kết quả sau khi bức ảnh bị biến dạng rất ít.
+-Bất biến dưới tác động của nhóm các phép biến đổi, ví dụ bất biến dưới tác động của các phép quay, các nhóm biến đổi bảo toàn góc, các biến đối tịnh tiến.
+Thông thường, người ta thường tiếp cận vấn đề này bằng cách tăng thêm dữ liệu, ví dụ như thay vì chỉ training một bức ảnh, người ta training tất cả các bức ảnh có thể bằng cách quay, bóp méo. Vấn đề ở đây, việc tang them dữ liệu sẽ làm chi phí training và kích thước mô hình trở nên cực lớn.
+
+Chúng ta xét một bài toán cơ bản: Tìm tất cả các đa thức và là hàm chẵn đi qua 3 điểm.
+Thông thường, chúng ta sẽ lấy đối xứng các điểm này qua trục Oy, sau đó tìm một đa thức bậc 5  thông qua lý thuyết nội suy Largrangian
+
+\begin{center}
+    \scalebox{1.5}{$f(x) = \sum_{i=0,5} f(x_i) \prod_{\substack{j \neq i}} \frac{x - x_j}{x_i - x_j}$}
+\end{center}
+
+Tuy nhiên, kết quả chúng ta thu được là một đa thức bậc bốn. Tuy nhiên, nếu chúng ta chỉ xét các đa thức có dạng $ax^4+bx^2+c$ thì việc tính toán sẽ đơn giản hơn rất nhiều do tính đối xứng của đa thức.
+Hoàn toàn tương tự, câu chuyện cũng xảy ra với lý thuyết regression phi tuyến và do đó cả với lý thuyết deep learning.
+
+Đối với deep learning, chúng tôi dự tính cách tiếp cận như sau:
+1-Thiết kế các lý thuyết mạng bất biến với phép đối xứng.
+2-Thực hiện việc traing thông qua các phiên bản gradient descent mà bất biến với phép đối xứng.
+Ở đây, thay vì gradient descent cổ điển, ta tìm $Argmin_v f(x+v) $ 
+Trong đó loss function bất biến dưới tác động của nhóm đối xứng.
+
+
+Để thực hiện được việc này, chúng tôi nghiên cứu các kết hợp các lãnh vực toán học hiện đại, cụ thể hơn, lý thuyết biểu diễn nhóm, lý thuyết nhóm Lie và đại số Lie, lý thuyết bất biến, hình học Riemanian, giải tích điều hòa không giao hoán với lý thuyết deep learning. 
+
+Vì rằng ví dụ không tầm thường đầu tiên của lý thuyết là nhóm các phép quay $SO(3)$, nên chúng tôi nghiên cứu giải tích điều hòa trên nhóm $SO(3)$, và vì vậy  các nghiên cứu của chúng tôi có ứng dụng trực tiếp cho quantum mechanics trong việc phân tích phổ nguyên tử. 
+Đồng thời, vì không gian biểu diễn của $SO(3)$ là trên các phân thớ xoắn của $S^2$, nên từ đây chúng ta đưa tới lý thuyết giải tích điều hòa trên không gian thuần nhất, và lý thuyết deep learning trên không gian thuần nhất.
+Cụ thể hơn, chúng ta giới thiệu convolution on the homogeneous spacec, cũng như lý thuyết về filter/ kernel liên quan.
+
+
+Tiếp theo, bởi vì bản chất của các không gian thuần nhất thường có cấu trúc của các đa tạp Riemainan, nên hình học Riemanian xuất hiện trong lý thuyết của chúng tôi.
+
+
+Cuối cùng, được khích lệ bởi lý thuyết holonomy trong hình học Riemanian, chúng tôi nghiên cứu lý thuyết đối xứng xuất hiện một cách tự nhiên trong NLP, và đề xuất ra lý thuyết  symmetry trên các AMR graph, và cấu trúc của probabilistic  category trong NLP. Đây là các kết quả chưa từng xuất hiện trong các tài liệu liên quan.  

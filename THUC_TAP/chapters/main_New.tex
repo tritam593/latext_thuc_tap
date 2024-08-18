@@ -1,0 +1,251 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage[fontsize=14pt]{scrextend}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage[utf8]{vietnam}
+\usepackage[unicode]{hyperref}
+% \usepackage[vietnamese]{babel}
+\usepackage[titletoc]{appendix}
+\usepackage{graphicx, animate}
+% \title{animate SO}
+\usepackage{listings}
+\graphicspath{ {images/} }
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\usepackage{float}
+% \usepackage{multirow}
+% \usepackage{booktabs}
+% \usepackage{pifont}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+% \usepackage{hyperref}
+
+% \usepackage{ragged2e}
+\usepackage{tikz}
+\usepackage{tikz,pgfplots}
+
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{5} % how many sectioning levels to assign numbers to
+\setcounter{tocdepth}{3}  % how many sectioning levels to show in ToC
+
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+
+\usepackage{amsmath}
+% \usepackage{algorithm}
+% \usepackage[noend]{algpseudocode}
+
+% \makeatletter
+% \def\BState{\State\hskip-\ALG@thistlm}
+% \makeatother
+
+
+
+% \usepackage[linesnumbered,ruled,vlined]{algorithm2e}
+% \RestyleAlgo{ruled}
+
+\usepackage[left = 2.5cm, right =2cm, top =2.5cm,bottom =2.5cm]{geometry}
+
+% \hypersetup{
+%     colorlinks=true,
+%     linkcolor=blue,
+%     filecolor=magenta,      
+%     urlcolor=cyan,
+% }
+
+% hyperlinks
+\usepackage{hyperref} 
+\hypersetup{ colorlinks, citecolor=red, filecolor=black, linkcolor=black, urlcolor=blue } 
+
+% blank page
+% \usepackage{afterpage}
+% \newcommand\blankpage{%
+%     \null
+%     \thispagestyle{empty}%
+%     \addtocounter{page}{-1}%
+%     \newpage}
+
+% \usepackage{pgf}
+% \usepackage{pgfpages}
+
+% Border
+% \pgfpagesdeclarelayout{boxed}
+% {
+%   \edef\pgfpageoptionborder{0pt}
+% }
+% {
+%   \pgfpagesphysicalpageoptions
+%   {%
+%     logical pages=1,%
+%   }
+%   \pgfpageslogicalpageoptions{1}
+%   {
+%     border code=\pgfsetlinewidth{0.5pt}\pgfstroke,%
+%     border shrink=\pgfpageoptionborder,%
+%     resized width=.95\pgfphysicalwidth,%
+%     resized height=.95\pgfphysicalheight,%
+%     center=\pgfpoint{.5\pgfphysicalwidth}{.5\pgfphysicalheight}%
+%   }%
+% }
+% \pgfpagesuselayout{boxed}
+
+% Page border
+% \usepackage{background}
+\usetikzlibrary{calc}
+% \SetBgScale{1}
+% \SetBgAngle{0}
+% \SetBgColor{black}
+% \SetBgOpacity{1}
+% \SetBgContents{
+% \begin{tikzpicture}[overlay,remember picture]
+% \draw [line width=3pt]
+%     ($ (current page.north west) + (2.0cm,-2.0cm) $)
+%     rectangle
+%     ($ (current page.south east) + (-1.5cm,1.8cm) $);
+% \draw [line width=1pt]
+%     ($ (current page.north west) + (2.15cm,-2.15cm) $)
+%     rectangle
+%     ($ (current page.south east) + (-1.65cm,1.95cm) $); 
+% \end{tikzpicture}
+% }
+% \AtBeginShipoutFirst{\PageBorder}
+% \AtBeginShipout{\ifnum\value{page}<3\PageBorder\fi}
+
+% page layout including header and footer
+\usepackage{xcolor}
+% \usepackage[a4paper,top=2cm, bottom=3.5cm, left=2.54cm, right=2.54cm]{geometry}
+\definecolor{myred}{HTML}{581000}
+% \usepackage{fancyhdr}
+% \pagestyle{fancy}
+% \fancyhead{}
+% \fancyhead[L]{\slshape\nouppercase{\leftmark}}
+% \fancyhead[R]{\slshape\nouppercase{\rightmark}}
+% \fancyfoot{}
+% \fancyfoot[R]{\thepage}
+% \fancyfoot[L]{\textbf{Đại học Khoa học Tự nhiên, ĐHQGHN}}
+% \renewcommand{\headrulewidth}{0.5pt}
+% \renewcommand{\footrulewidth}{3pt}
+% \renewcommand{\footrule}{\hbox to\headwidth{\color{myred}\leaders\hrule height \footrulewidth\hfill}}
+\usepackage{caption}
+\usepackage{subcaption}
+\setcounter{page}{1}
+\setcounter{chapter}{0}
+% \fancypagestyle{plain}{%
+% % \fancyhf{}% clear all header and footer fields
+% % \fancyfoot{}
+% % \fancyfoot[R]{\thepage}
+% % \fancyfoot[L]{\textbf{Đại học Khoa học Tự nhiên, ĐHQGHN}}
+% % \renewcommand{\headrulewidth}{0.5pt}
+% \renewcommand{\footrulewidth}{3pt}
+% \renewcommand{\footrule}{\hbox to\headwidth{\color{myred}\leaders\hrule height \footrulewidth\hfill}}
+% }
+
+% table format
+\usepackage{array}
+% \newcolumntype{Y}{>{\centering\arraybackslash}m{4.4cm}}
+% \newcolumntype{X}{>{\centering\arraybackslash}m{7cm}}
+% \newcolumntype{P}{>{\centering\arraybackslash}m{2.5cm}}
+% \newcolumntype{L}{>{\raggedright\arraybackslash}m{8cm}}
+% \newcolumntype{M}{>{\raggedright\arraybackslash}m{3.7cm}}
+% \newcolumntype{Z}{>{\justify}m{15cm}}
+% \renewcommand{\paragraph}[1]{\subsection*{#1}}
+
+
+
+
+\usepackage[maxnames=10]{biblatex}
+\addbibresource{chapters/ref.bib}
+
+
+\usepackage{nomencl}
+\makenomenclature
+\hypersetup{citecolor=black}
+
+\usepackage{mathtools}
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\begin{document}
+
+\renewcommand{\thepage}{\roman{page}}
+
+
+
+\input{chapters/titlepage}
+
+\setstretch{1.5}
+
+% \input{Phân công công việc
+% } 
+% \newpage
+%\input{thank}
+\newpage
+% \input{Đặt vấn đề} 
+% \newpage
+\setlength{\parskip}{0pt}
+
+
+% \chapter{Lời cam đoan}
+% \input{Lời cam đoan}
+
+% \chapter{Lời cảm ơn}
+% \input{Lời cảm ơn}
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{Danh sách hình vẽ}
+\listoffigures  
+
+
+\newpage 
+% \lhead{}
+
+\clearpage
+\setcounter{page}{1}
+\setcounter{chapter}{0}
+
+\renewcommand{\thepage}{\arabic{page}}	
+
+\setlength{\parskip}{1em}
+
+
+
+% \addcontentsline{toc}{chapter}{Giới thiệu chung}
+\chapter{GIỚI THIỆU}\label{chap:lit}
+\input{chapters/Intro}
+
+\chapter{CÁC CÔNG TRÌNH LIÊN QUAN}
+\input{chapters/related_work}
+
+\chapter{CƠ SỞ LÝ THUYẾT}
+\input{chapters/CSLT}
+
+
+\chapter{GEOMETRIC DEEP LEARNING}
+\input{chapters/GDL}
+
+\chapter{KẾT LUẬN}
+\input{chapters/Kết_luận}
+
+
+
+%\chapter{THỰC NGHIỆM ĐỀ TÀI}
+%\input{chuong5}
+
+%\chapter{KẾT LUẬN VÀ CÔNG VIỆC TRONG TƯƠNG LAI}
+%\input{chuong6}    
+\addcontentsline{toc}{chapter}{TÀI LIỆU THAM KHẢO}
+
+    
+    % \bibliographystyle{style}
+    \printbibliography[title=Tài liệu tham khảo]
+    
+
+\end{document}
+ 

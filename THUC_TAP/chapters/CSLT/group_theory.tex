@@ -1,0 +1,103 @@
+\section{Lý thuyết nhóm}
+Lý thuyết nhóm là một nhánh trong toán học có mục đích là nghiên cứu về các cấu trúc đại số được gọi là các nhóm. Một nhóm là một tập các tác động nào đó như là tập các phép hoán vị của $n$ phần tử thì được gọi là một nhóm. Một nhóm được định nghĩa bởi một bộ $(G, \cdot)$ trong đó $G$ là một tập các phần tử của nhóm và $\cdot$ là phép toán của nhóm, phép toán này sẽ cho chúng ta biết các phần tử $g \in G$ kết hợp như thế nào. Phép toán $\cdot$ cần thỏa mãn một số tính chất sau:
+\begin{enumerate}
+    \item Tính đóng: nhóm $G$ đóng với phép toán $\cdot$, nghĩa là với mọi $g_1, g_2 \in G$ thì ta có $g_1 \cdot g_2 \in G$
+
+    \item Phần tử đơn vị: tồn tại một phần tử $e$ sao cho với mỗi $g \in G$ thì $e \cdot g = g \cdot e = g$
+
+    \item Nghịch đảo: với mọi $g \in G$ thì sẽ tồn tại một phần tử $g^{-1} \in G$ sao cho $g \cdot g^{-1} = e$
+
+    \item Tính kết hợp: với mọi tập các phần tử $g_1, g_2, g_3 \in G$, ta có $(g_1 \cdot g_2) \cdot g_3 = g_1 \cdot (g_2 \cdot g_3)$
+\end{enumerate}
+
+Ví dụ: Trong không gian $R^2$, ta có phép quay một góc $\theta$ trong không gian này là một ma trận:
+$$
+R(\theta) = \begin{pmatrix}
+\cos{\theta} & -\sin{\theta} \\
+\sin{\theta} & \cos{\theta}
+\end{pmatrix}
+$$
+Như vậy, tập hợp tất cả các góc $\theta$ có thể sẽ tạo thành một nhóm các phép quay trên $R^2$ và nhóm này được gọi là $SO(2)$. Có thể thấy $SO(2)$ đều thỏa mãn cả bốn tính chất của một nhóm:
+\begin{enumerate}
+    \item \textbf{Tính đóng (Closure)}:
+    \begin{itemize}
+        \item Nếu \(R(\theta_1)\) và \(R(\theta_2)\) là hai ma trận quay trong \(SO(2)\), thì tích của chúng \(R(\theta_1)R(\theta_2)\) cũng là một ma trận quay trong \(SO(2)\).
+        \item Thật vậy, tích của hai ma trận quay:
+        \[
+        R(\theta_1)R(\theta_2) = \begin{pmatrix}
+        \cos{\theta_1} & -\sin{\theta_1} \\
+        \sin{\theta_1} & \cos{\theta_1}
+        \end{pmatrix}
+        \begin{pmatrix}
+        \cos{\theta_2} & -\sin{\theta_2} \\
+        \sin{\theta_2} & \cos{\theta_2}
+        \end{pmatrix}
+        = \begin{pmatrix}
+        \cos(\theta_1 + \theta_2) & -\sin(\theta_1 + \theta_2) \\
+        \sin(\theta_1 + \theta_2) & \cos(\theta_1 + \theta_2)
+        \end{pmatrix}
+        \]
+        \item Như vậy, \(R(\theta_1 + \theta_2)\) cũng là một ma trận quay trong \(SO(2)\).
+    \end{itemize}
+    
+    \item \textbf{Phần tử đơn vị (Identity element)}:
+    \begin{itemize}
+        \item Ma trận đơn vị trong \(SO(2)\) là ma trận \(R(0)\), tương ứng với góc quay 0 độ:
+        \[
+        R(0) = \begin{pmatrix}
+        1 & 0 \\
+        0 & 1
+        \end{pmatrix}
+        \]
+        \item Khi nhân bất kỳ ma trận quay nào với ma trận đơn vị này, kết quả vẫn là ma trận quay ban đầu.
+    \end{itemize}
+
+    \item \textbf{Phần tử nghịch đảo (Inverse element)}:
+    \begin{itemize}
+        \item Với mỗi ma trận quay \(R(\theta)\), phần tử nghịch đảo của nó là \(R(-\theta)\), tức là quay ngược lại góc \(\theta\):
+        \[
+        R(\theta)R(-\theta) = \begin{pmatrix}
+        \cos{\theta} & -\sin{\theta} \\
+        \sin{\theta} & \cos{\theta}
+        \end{pmatrix}
+        \begin{pmatrix}
+        \cos{(-\theta)} & -\sin{(-\theta)} \\
+        \sin{(-\theta)} & \cos{(-\theta)}
+        \end{pmatrix}
+        = \begin{pmatrix}
+        1 & 0 \\
+        0 & 1
+        \end{pmatrix}
+        \]
+        \item Như vậy, mỗi ma trận quay trong \(SO(2)\) đều có một ma trận nghịch đảo.
+    \end{itemize}
+    
+    \item \textbf{Tính kết hợp (Associativity)}:
+    \begin{itemize}
+        \item Tích của các ma trận quay tuân theo tính kết hợp:
+        \[
+        (R(\theta_1)R(\theta_2))R(\theta_3) = R(\theta_1)(R(\theta_2)R(\theta_3))
+        \]
+        \item Điều này xuất phát từ tính chất kết hợp của phép nhân ma trận.
+    \end{itemize}
+    
+\end{enumerate}
+
+\section{Lý thuyết biểu diễn}
+Giả sử ta có một nhóm $G$ bất kỳ, khi đó, ta muốn biết cách mà nhóm $G$ tác động lên một không gian $R^d$ là như thế nào. Do đó, lý thuyết biểu diễn bắt đầu xuất hiện để giải thích cho điều này. 
+
+\textbf{Định nghĩa:} Một biểu diễn tuyến tính $\rho$ của một nhóm compact $G$  trên một không gian vectơ (gọi là không gian biểu diễn) $R^d$ là một tập các phép ánh xạ từ $G$ sang nhóm $GL(R^d)$ (nhóm này bao gồm tập các ma trận khả nghịch trong $R^d$). Cụ thể, đó là một phép ánh xạ $\rho : G \rightarrow R^{d \times d}$ sao cho:
+$$\rho (g_1 g_2) = \rho (g_1) \rho (g_2) \hspace{0.5cm} \forall g_1, g_2 \in G$$
+$$\rho (e) = I_d$$
+Một cách nói khác thì $\rho$ là một ma trận khả nghịch có kích thước là $d \times d$ với $d$ được hiểu là kích thước của biểu diễn.
+
+Chúng ta có kết kết hợp hai biểu diễn để có thể tạo ra một biểu diễn lớn hơn thông qua \textbf{tổng trực tiếp}.
+
+Cho các biểu diễn $\rho_1 : G \to \mathbb{R}^{d_1 \times d_1}$ và $\rho_2 : G \to \mathbb{R}^{d_2 \times d_2}$, \textbf{tổng trực tiếp} $\rho_1 \oplus \rho_2: G \to \mathbb{R}^{(d_1 + d_2) \times (d_1 + d_2)}$ được định nghĩa như sau 
+
+$$
+    (\rho_1 \oplus \rho_2)(g) = \begin{pmatrix}\rho_1(g) & 0 \\ 0 & \rho_2(g) \end{pmatrix} 
+$$
+
+Tác động này được tạo bởi hai tác động độc lập là $\rho_1$ và $\rho_2$ trên các không gian con trực giao $\mathbb{R}^{d_1}$ và  $\mathbb{R}^{d_2}$  của $\mathbb{R}^{d_1 + d_2}$.
+
