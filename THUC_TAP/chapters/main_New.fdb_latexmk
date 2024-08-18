@@ -1,12 +1,13 @@
 # Fdb version 4
-["biber main_New"] 0 "main_New.bcf" "main_New.bbl" "main_New" 0 -1
+["biber main_New"] 0 "main_New.bcf" "main_New.bbl" "main_New" 1723980756.44212 -1
+  "chapters/ref.bib" 0 -1 0 ""
   "main_New.bcf" 0 -1 0 "pdflatex"
   "ref.bib" 1723940074 4806 a7cef98625f2c51152a9219b5db69359 ""
   (generated)
   "main_New.bbl"
   "main_New.blg"
   (rewritten before read)
-["pdflatex"] 1723966459.35216 "main_New.tex" "main_New.pdf" "main_New" 1723966475.26841 2
+["pdflatex"] 1723980752.77102 "c:/Users/sjeux/Downloads/git_temp/latext_thuc_tap/THUC_TAP/chapters/main_New.tex" "main_New.pdf" "main_New" 1723980756.4428 2
   "C:/Users/sjeux/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723965864 24210582 8d0efcf8989a63822abbaf6412d89617 ""
   "D:/New folder/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "D:/New folder/fonts/tfm/vntex/vnr/vnr12.tfm" 1644004041 3984 be7b630197255361b12d153ce5e1bc5b ""
@@ -226,10 +227,11 @@
   "D:/New folder/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "D:/New folder/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "D:/New folder/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
+  "c:/Users/sjeux/Downloads/git_temp/latext_thuc_tap/THUC_TAP/chapters/main_New.tex" 1723967867 5893 0f1a45c8ca1677f4f1aa7bd2a89fea1d ""
   "chapters/titlepage.tex" 0 -1 0 ""
-  "main_New.aux" 1723966474 359 2ecdf0e38112f028c7e9ecfc1c8ab8e7 "pdflatex"
+  "main_New.aux" 1723980755 359 2ecdf0e38112f028c7e9ecfc1c8ab8e7 "pdflatex"
   "main_New.bbl" 0 -1 0 "biber main_New"
-  "main_New.tex" 1723940074 5881 712c8f13d96a1fe142858b8ade539a16 ""
+  "main_New.tex" 1723967867 5893 0f1a45c8ca1677f4f1aa7bd2a89fea1d ""
   (generated)
   "main_New.aux"
   "main_New.bcf"

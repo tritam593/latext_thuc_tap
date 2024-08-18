@@ -1,6 +1,6 @@
-PWD C:\Users\sjeux\Downloads\THUC_TAP\chapters
+PWD c:\Users\sjeux\Downloads\git_temp\latext_thuc_tap\THUC_TAP\chapters
 INPUT C:\Users\sjeux\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT main_New.tex
+INPUT c:\Users\sjeux\Downloads\git_temp\latext_thuc_tap\THUC_TAP\chapters\main_New.tex
 OUTPUT main_New.log
 INPUT D:\New folder\tex\latex\base\report.cls
 INPUT D:\New folder\tex\latex\base\report.cls
@@ -390,9 +390,6 @@ INPUT D:\New folder\tex\latex\mathtools\mathtools.sty
 INPUT D:\New folder\tex\latex\mathtools\mathtools.sty
 INPUT D:\New folder\tex\latex\mathtools\mhsetup.sty
 INPUT D:\New folder\tex\latex\mathtools\mhsetup.sty
-INPUT .\main_New.aux
-INPUT .\main_New.aux
-INPUT main_New.aux
 OUTPUT main_New.aux
 INPUT D:\New folder\tex\latex\graphics\color.sty
 OUTPUT main_New.out
