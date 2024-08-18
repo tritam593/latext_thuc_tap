@@ -1,0 +1,42 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Hình ảnh minh họa về \textit {invariant} và \textit {equivariant}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{9}{figure.caption.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Ví dụ minh họa về các dạng dữ liệu trong GDL\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{21}{figure.caption.4}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Các mô hình đã có và tính chất của chúng\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{22}{figure.caption.5}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Ví dụ minh họa về biểu diễn đồ thị của một số dữ liệu thực thế\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{23}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Minh họa dữ liệu đồ thị trong GNN\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{23}{figure.caption.7}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ảnh minh họa về \textit {invariant} và \textit {equivariant} trong GNN\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{24}{figure.caption.8}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Cấu trúc của một mạng GNN, trong đó pooling là phép ánh xạ đưa một đồ thị thành một vector\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{25}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Cấu trúc của \textit {"message passing"} trong GNN, trong đó ô vuông là phép tổng hợp đặc trưng của các lân cận như là phép lấy tổng, trung bình, ...\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{25}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Cấu trúc của hàm tổng hợp thông tin của GCN và GAT\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{26}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Ảnh minh họa DeepSet\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{27}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Ảnh minh họa Transformer\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{27}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Ảnh minh họa dữ liệu đồ thị hình học và các phép toán đại số tác động nên nó\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{28}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Ảnh minh họa hai phương pháp trong \textit {manifold learning}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{29}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Ảnh minh họa dữ liệu dạng \textit {grid} và cấu trúc hàm tổng hợp đặc trưng\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{30}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Ảnh minh họa hàm tổng hợp đặc trưng đối với dữ liệu \textit {grid}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{30}{figure.caption.17}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Ảnh minh họa về ma trận \textit {circulant}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{31}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Ảnh minh họa về ma trận \textit {Shift}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{32}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Ví dụ minh họa về dữ liệu dạng Sphere\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{35}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Ảnh minh họa dữ liệu đa tạp và meshes\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{37}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Ảnh minh họa protein\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{39}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Ảnh minh họa tích đường đi của \textit {filter} trên không gian Euclid\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{40}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Ảnh minh họa tích đường đi của \textit {filter} trên \textit {sphere}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{40}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Ảnh minh họa tích đường đi của \textit {filter} trên mặt \textit {mobius}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{41}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Ảnh minh họa hai dạng \textit {invariant} đối với dữ liệu \textit {manifold}\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{42}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Ảnh minh họa filter trên đa tạp có tác động của một nhóm\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{44}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Ứng dụng của tích chập cho manifold trong computer graphic\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{45}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Tổng quan quá trình đưa chuyển động của khuôn mặt vào trong đồ họa máy tính\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{46}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Ứng dụng tái cấu trúc lại hình dạng 3D của một vật thể từ một hình ảnh\blx@tocontentsinit {0}\cite {geometricdeep2022}}}{46}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Ví dụ minh họa về AMR\blx@tocontentsinit {0}\cite {amr-guidelines}}}{48}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Biểu diễn AMR dạng text của ví dụ trong hình \ref {fig:ex_amr}}}{49}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Biểu diễn AMR của hai câu đồng nghĩa}}{51}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Ý tưởng cấu trúc mới về AMR. (LLM functors nghĩa là sử dụng LLM để chuyển một câu sang AMR)}}{53}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Ví dụ minh họa bằng dịch một câu sang ngôn ngữ khác. Những điểm trong hình tròn là các câu khác nhau nhưng cùng nghĩa. F, G, F là các phép dịch một ngôn ngữ này sang ngôn ngữ khác.}}{54}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Motivation từ Curvature in Riemaninan Geometry cho cấu trúc AMR trong NLP}}{55}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Ảnh minh họa một số dữ liệu trong tập dữ liệu ModelNet10}}{57}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Biểu đồ theo dõi tính độ chính xác của mô hình trong quá trình training}}{59}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Hình ảnh thống kê kết quả dự đoán của mô hình}}{61}{figure.caption.43}%
+\addvspace {10\p@ }

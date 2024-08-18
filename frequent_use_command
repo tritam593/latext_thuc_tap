@@ -1,0 +1,19 @@
+-- figure
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale = 0.1]{Images/convolution.png}
+    \caption{Lớp Convolution}
+    \label{fig:enter-label}
+\end{figure}
+
+-- tham chiếu
+\ref{fig:enter-label}
+
+-- trích dẫn
+\cite{simonyan2014very}
+
+
+-- tiêu đề
+\section
+\subsection
+

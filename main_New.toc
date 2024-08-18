@@ -1,0 +1,38 @@
+\contentsline {chapter}{Danh sách hình vẽ}{ii}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}GIỚI THIỆU}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}CÁC CÔNG TRÌNH LIÊN QUAN}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}CƠ SỞ LÝ THUYẾT}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Lý thuyết nhóm}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Lý thuyết biểu diễn}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Khái niệm về equivariance}{8}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Tensor field networks}{9}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Permutation equivariance}{10}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Translation equivariance}{10}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Rotation equivariance}{10}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Cấu trúc của các lớp TFN}{11}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Point convolution}{12}{subsubsection.3.4.4.1}%
+\contentsline {paragraph}{\numberline {3.4.4.1.1}Spherical harmonics và filters}{13}{paragraph.3.4.4.1.1}%
+\contentsline {paragraph}{\numberline {3.4.4.1.2}Kết hợp biểu diễn bằng tích tensor}{14}{paragraph.3.4.4.1.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.2}Định nghĩa cấu trúc của layer}{15}{subsubsection.3.4.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.4.3}Self-interaction}{16}{subsubsection.3.4.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4.4}Nonlinearity}{16}{subsubsection.3.4.4.4}%
+\contentsline {chapter}{\numberline {4}GEOMETRIC DEEP LEARNING}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tổng quan về geometric deep learning}{18}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Mạng nơ-ron đồ thị và tiền thân hóa học của chúng}{18}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Các dữ liệu trong GDL}{20}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Dữ liệu đồ thị}{22}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Dữ liệu đa tạp}{28}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Dữ liệu dạng grid}{29}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Convolution và tính equivarint của nó với phép dịch chuyển}{30}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Mô hình hóa convolution cho không gian tổng quát}{33}{subsection.4.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.7.1}Tích chập trên miền số thực}{33}{subsubsection.4.1.7.1}%
+\contentsline {subsubsection}{\numberline {4.1.7.2}Tích chập trên mặt cầu}{34}{subsubsection.4.1.7.2}%
+\contentsline {subsubsection}{\numberline {4.1.7.3}Tích chập cho đa tạp}{36}{subsubsection.4.1.7.3}%
+\contentsline {section}{\numberline {4.2}Geometric Deep learning cho AMR trong NLP}{47}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Phân loại hình 3D sử dụng TFN}{56}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Tổng quan bài toán}{56}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Dữ liệu sử dụng}{57}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Phương pháp thực nghiệm}{58}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Kết quả thực nghiệm và đánh giá}{59}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}KẾT LUẬN}{62}{chapter.5}%
+\contentsline {chapter}{TÀI LIỆU THAM KHẢO}{62}{chapter.5}%
