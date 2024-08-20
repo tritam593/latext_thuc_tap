@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.19)  20 AUG 2024 17:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.19)  20 AUG 2024 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1248,11 +1248,7 @@ File: Images/GDL/inva_equi.png Graphic file (type png)
 <use Images/GDL/inva_equi.png>
 Package pdftex.def Info: Images/GDL/inva_equi.png  used on input line 11.
 (pdftex.def)             Requested size: 469.47049pt x 121.42937pt.
- [11 <./Images/GDL/inva_equi.png>] [12]
-
-LaTeX Warning: Reference `TFN_1' on page 13 undefined on input line 65.
-
-[13] [14] [15] [16] [17])) [18]
+ [11 <./Images/GDL/inva_equi.png>] [12] [13] [14] [15] [16] [17])) [18]
 Ch\uhorn \ohorn ng 4.
 (chapters/GDL.tex (chapters/GDL/tong_quan_gdl.tex [19
 
@@ -1504,10 +1500,6 @@ File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main_New.out' has not changed.
 (rerunfilecheck)             Checksum: AC71F0DED8E798A50FC8B1DBB043E3E7;7044.
 Package logreq Info: Writing requests to 'main_New.run.xml'.
@@ -1515,15 +1507,15 @@ Package logreq Info: Writing requests to 'main_New.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45940 strings out of 474486
- 1013174 string characters out of 5755486
+ 45939 strings out of 474486
+ 1013167 string characters out of 5755486
  1938542 words of memory out of 5000000
- 67336 multiletter control sequences out of 15000+600000
+ 67335 multiletter control sequences out of 15000+600000
  579579 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,1239b,1857s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\tam\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnbx12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vncsc10.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnr12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnr17.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnsl12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnti12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main_New.pdf (73 pages, 7341134 bytes).
+Output written on main_New.pdf (73 pages, 7340820 bytes).
 PDF statistics:
  1116 PDF objects out of 1200 (max. 8388607)
  185 named destinations out of 1000 (max. 500000)
