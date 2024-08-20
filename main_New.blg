@@ -1,17 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main_New.blg'
-[176] biber-MSWIN64:340> INFO - === 
-[226] Biber.pm:419> INFO - Reading 'main_New.bcf'
-[420] Biber.pm:979> INFO - Found 15 citekeys in bib section 0
-[443] Biber.pm:4419> INFO - Processing section 0
+[123] biber-MSWIN64:340> INFO - === 
+[161] Biber.pm:419> INFO - Reading 'main_New.bcf'
+[431] Biber.pm:979> INFO - Found 18 citekeys in bib section 0
+[449] Biber.pm:4419> INFO - Processing section 0
 [461] Biber.pm:4610> INFO - Looking for bibtex file 'chapters/ref.bib' for section 0
-[526] bibtex.pm:1713> INFO - LaTeX decoding ...
-[559] bibtex.pm:1519> INFO - Found BibTeX data source 'chapters/ref.bib'
-[743] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[743] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[744] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[744] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[774] bbl.pm:660> INFO - Writing 'main_New.bbl' with encoding 'UTF-8'
-[787] bbl.pm:763> INFO - Output to main_New.bbl
-[787] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'amr-guidelines' is not an integer - this will probably not sort properly.
-[788] Biber.pm:133> INFO - WARNINGS: 1
+[511] bibtex.pm:1713> INFO - LaTeX decoding ...
+[546] bibtex.pm:1519> INFO - Found BibTeX data source 'chapters/ref.bib'
+[709] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[710] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[710] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[710] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[735] bbl.pm:660> INFO - Writing 'main_New.bbl' with encoding 'UTF-8'
+[747] bbl.pm:763> INFO - Output to main_New.bbl
+[748] Biber.pm:131> WARN - Duplicate entry key: 'worrall2017harmonicnetworksdeeptranslation' in file 'chapters/ref.bib', skipping ...
+[748] Biber.pm:131> WARN - Duplicate entry key: 'gcn_paper' in file 'chapters/ref.bib', skipping ...
+[748] Biber.pm:131> WARN - Duplicate entry key: 'gat_paper' in file 'chapters/ref.bib', skipping ...
+[748] Biber.pm:131> WARN - Duplicate entry key: 'schütt2017schnetcontinuousfilterconvolutionalneural' in file 'chapters/ref.bib', skipping ...
+[748] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'amr-guidelines' is not an integer - this will probably not sort properly.
+[748] Biber.pm:133> INFO - WARNINGS: 5

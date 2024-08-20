@@ -108,6 +108,48 @@
       \verb https://vi.wikipedia.org/wiki/%C4%90a_t%E1%BA%A1p
       \endverb
     \endentry
+    \entry{hyperbolicneuralnetworks}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=0fb49604666ee53301c1f3943cafb36c}{%
+           family={Ganea},
+           familyi={G\bibinitperiod},
+           given={Octavian-Eugen},
+           giveni={O\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=2e3cec45c0b543a836b914ef3e4b1234}{%
+           family={Bécigneul},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ee42cfed2ff3020233d2de97c356eaee}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \strng{fullhash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \strng{bibnamehash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \strng{authorbibnamehash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \strng{authornamehash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \strng{authorfullhash}{0cd8f64246c4372a5b72169ebe31ca84}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Hyperbolic Neural Networks}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1805.09112
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1805.09112
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1805.09112
+      \endverb
+    \endentry
     \entry{geometricdeep2022}{misc}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -116,6 +158,58 @@
       \field{note}{July 25--28, Pescara, Italy}
       \field{title}{Geometric Deep Learning}
       \field{year}{2022}
+    \endentry
+    \entry{gilmer2017neuralmessagepassingquantum}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=4f550339f0337905aa634f39e1ba4833}{%
+           family={Gilmer},
+           familyi={G\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aa3475bbb938eec3f9f0d7c8d44f1e86}{%
+           family={Schoenholz},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e9632c2c29a574cd09a5a7503be60435}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Patrick\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=494b568c5dc85ba8f3f409635f9c5f25}{%
+           family={Vinyals},
+           familyi={V\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b2367e57c17225a47853346440e87b35}{%
+           family={Dahl},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{fullhash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{bibnamehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{authorbibnamehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{authornamehash}{a97dbeb15b563be460fc056e7a076a4b}
+      \strng{authorfullhash}{a97dbeb15b563be460fc056e7a076a4b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{title}{Neural Message Passing for Quantum Chemistry}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1704.01212
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1704.01212
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1704.01212
+      \endverb
     \endentry
     \entry{gilmore2008lie}{book}{}
       \name{author}{1}{}{%
@@ -200,6 +294,48 @@
       \field{edition}{3}
       \field{title}{Introduction to Quantum Mechanics}
       \field{year}{2018}
+    \endentry
+    \entry{graph_sage}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=2abce6c40b4cc1a3d89f175883b24536}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6b37c8aefa150635663b2a6525952a7a}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Rex},
+           giveni={R\bibinitperiod}}}%
+        {{hash=900d107125ff0ca84698cb909e4f6c51}{%
+           family={Leskovec},
+           familyi={L\bibinitperiod},
+           given={Jure},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{fullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{bibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorbibnamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authornamehash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \strng{authorfullhash}{f818fe3ba25dc2399831a69d9b62c7f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.SI}
+      \field{eprinttype}{arXiv}
+      \field{title}{Inductive Representation Learning on Large Graphs}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1706.02216
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1706.02216
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1706.02216
+      \endverb
     \endentry
     \entry{gcn_paper}{misc}{}
       \name{author}{2}{}{%

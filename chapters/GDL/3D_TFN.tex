@@ -1,4 +1,4 @@
-\subsection{Tổng quan bài toán}
+\section{Tổng quan bài toán}
 Bài toán của báo cáo là phân loại hình 3D. Cụ thể hơn thì báo cáo sẽ làm việc về bài toán Point Cloud classification. Point Cloud Classification là một bài toán trong lĩnh vực Machine Learning và Computer Vision, đặc biệt liên quan đến việc xử lý dữ liệu 3D. Point Cloud là một tập hợp các điểm trong không gian ba chiều (3D), mỗi điểm được xác định bởi tọa độ (x, y, z) và đôi khi kèm theo các thông tin khác như màu sắc, cường độ ánh sáng, hay các đặc điểm khác. Các điểm này được thu thập từ các cảm biến 3D như LiDAR, máy quét 3D, hoặc từ các hình ảnh 2D thông qua các kỹ thuật như Structure from Motion (SfM).
 
 Mục tiêu của bài toán Point Cloud Classification là phân loại toàn bộ đám mây điểm thành các nhãn (labels) khác nhau, chẳng hạn như xác định một đám mây điểm thuộc về một loại đối tượng nào đó (ví dụ: ô tô, người, cây cối, tòa nhà).
@@ -18,7 +18,7 @@ Một số thách thức chính trong Point Cloud Classification bao gồm:
 
 \end{itemize}
 
-\subsection{Dữ liệu sử dụng}
+\section{Dữ liệu sử dụng}
 Ở đây, báo cáo sẽ sử dụng bộ dữ liệu về Point Cloud là bộ dữ liệu ModelNet10\cite{data_modelnet10}. ModelNet10 là một bộ dữ liệu chuẩn trong lĩnh vực xử lý dữ liệu 3D, được sử dụng phổ biến trong các nghiên cứu và thí nghiệm liên quan đến Point Cloud Classification và 3D Object Recognition. Bộ dữ liệu này được giới thiệu lần đầu tiên bởi các nhà nghiên cứu tại Princeton University trong bài báo "3D ShapeNets: A Deep Representation for Volumetric Shapes"\cite{data_modelnet10} vào năm 2015.
 
 \begin{figure}[H]
@@ -29,7 +29,7 @@ Một số thách thức chính trong Point Cloud Classification bao gồm:
 
 ModelNet10 bao gồm khoảng \textbf{3991} dữ liệu 3D được trích xuất từ các đối tượng trong thế giới thực và được sắp xếp thành 10 danh mục khác nhau. Những danh mục này bao gồm: Bed (Giường), Chair (Ghế), Desk (Bàn làm việc), Dresser (Tủ ngăn kéo), Monitor (Màn hình), Nightstand (Tủ đầu giường), Sofa (Ghế sofa), Table (Bàn), Toilet (Bồn cầu), Bathtub (Bồn tắm)
 
-\subsection{Phương pháp thực nghiệm}
+\section{Phương pháp thực nghiệm}
 Ở đây, báo cáo sẽ chỉ thực nghiệm để thấy được sự hữu ích của các mạng \textit{equivariant deep learning} trong bài toán liên quan đến dữ liệu 3D. Cụ thể hơn, báo cáo chỉ sử dụng TFN để cho thấy rằng dữ liệu được training là dữ liệu chưa xoay đi một góc nào đấy. Do đó, sau khi training xong, báo cáo sẽ xay dữ liệu một cách ngẫu nhiên rồi sau đó cho mô hình dự đoán.
 
 Về phần dữ liệu, do hạn chế về mặt phần cứng là 15GB VRAM của Google Colab, báo cáo không thể training hết được toàn bộ dữ liệu do có một số dữ liệu có rất nhiều điểm (khoảng hơn 1000 điểm). Do đó, với mỗi loại nhãn của dữ liệu, báo cáo sẽ lấy một điểm dữ liệu cho mỗi loại nhãn rồi sau đó training mô hình TFN với dữ liệu này.
@@ -58,7 +58,7 @@ Mô hình sẽ được huấn luyện với 200 epochs với kích thước bat
  \caption{Bảng thống kê các thông số huấn luyện mô hình}
 \end{table}
 
-\subsection{Kết quả thực nghiệm và đánh giá}
+\section{Kết quả thực nghiệm và đánh giá}
 Sau quá trình training, mô hình đạt được độ chính xác là 80\% . Điều này cho thấy rằng mô hình vẫn chưa phân loại tốt hoàn toàn vì một phần là thiếu dữ liệu hoặc có thể là do có một số dữ liệu có cấu trúc khá là tương đồng nên mô hình chưa thể nhận biết được. Hình \ref{fig:acc_track} dưới đây là biểu đồ theo dõi chất lượng dự đoán của mô hình.
 
 \begin{figure}[H]
