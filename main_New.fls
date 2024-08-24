@@ -1,422 +1,422 @@
-PWD c:\Users\tam\Downloads\thuc_tap\latext_thuc_tap
-INPUT C:\Users\tam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\tam\Downloads\thuc_tap\latext_thuc_tap\main_New.tex
+PWD c:\Users\sjeux\Downloads\git_temp\latext_thuc_tap
+INPUT C:\Users\sjeux\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\sjeux\Downloads\git_temp\latext_thuc_tap\main_New.tex
 OUTPUT main_New.log
-INPUT C:\D\latex\mike_tex\tex\latex\base\report.cls
-INPUT C:\D\latex\mike_tex\tex\latex\base\report.cls
-INPUT C:\D\latex\mike_tex\tex\latex\base\size12.clo
-INPUT C:\D\latex\mike_tex\tex\latex\base\size12.clo
-INPUT C:\D\latex\mike_tex\tex\latex\base\size12.clo
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\D\latex\mike_tex\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\ifthen.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\ifthen.sty
-INPUT C:\D\latex\mike_tex\tex\latex\tools\calc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\tools\calc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\D\latex\mike_tex\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\keyval.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\keyval.sty
-INPUT C:\D\latex\mike_tex\tex\latex\xcolor\xcolor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\xcolor\xcolor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\xcolor\xcolor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\color.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\color.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\color.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-def\pdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-def\pdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-def\pdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\mathcolor.ltx
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\mathcolor.ltx
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\mathcolor.ltx
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\graphicx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\graphicx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\graphics.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\graphics.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\trig.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\trig.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\pdfpages\pppdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\pdfpages\pppdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\pdfpages\pppdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrextend.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrextend.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrkbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrkbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlfile.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlfile.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlogo.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\scrlogo.sty
-INPUT C:\D\latex\mike_tex\tex\latex\footmisc\footmisc.sty
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\D\latex\mike_tex\tex\latex\setspace\setspace.sty
-INPUT C:\D\latex\mike_tex\tex\latex\setspace\setspace.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\inputenc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\inputenc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\vietnam.sty
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\vietnam.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\fontenc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\fontenc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.def
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.def
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.def
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.dfu
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.dfu
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5enc.dfu
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmr.fd
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmr.fd
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmr.fd
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr12.tfm
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\vncaps.tex
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\vncaps.tex
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\vncaps.tex
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\hyperref.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\hyperref.sty
-INPUT C:\D\latex\mike_tex\tex\generic\iftex\iftex.sty
-INPUT C:\D\latex\mike_tex\tex\generic\iftex\iftex.sty
-INPUT C:\D\latex\mike_tex\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\D\latex\mike_tex\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\D\latex\mike_tex\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\D\latex\mike_tex\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\D\latex\mike_tex\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\D\latex\mike_tex\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\D\latex\mike_tex\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\D\latex\mike_tex\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hycolor\hycolor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hycolor\hycolor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\D\latex\mike_tex\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\D\latex\mike_tex\tex\latex\auxhook\auxhook.sty
-INPUT C:\D\latex\mike_tex\tex\latex\auxhook\auxhook.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\nameref.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\nameref.sty
-INPUT C:\D\latex\mike_tex\tex\latex\refcount\refcount.sty
-INPUT C:\D\latex\mike_tex\tex\latex\refcount\refcount.sty
-INPUT C:\D\latex\mike_tex\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\D\latex\mike_tex\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\D\latex\mike_tex\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\D\latex\mike_tex\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\D\latex\mike_tex\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\D\latex\mike_tex\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\pd1enc.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\pd1enc.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\pd1enc.def
-INPUT C:\D\latex\mike_tex\tex\generic\intcalc\intcalc.sty
-INPUT C:\D\latex\mike_tex\tex\generic\intcalc\intcalc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\puenc.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\puenc.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\puenc.def
-INPUT C:\D\latex\mike_tex\tex\latex\url\url.sty
-INPUT C:\D\latex\mike_tex\tex\latex\url\url.sty
-INPUT C:\D\latex\mike_tex\tex\generic\bitset\bitset.sty
-INPUT C:\D\latex\mike_tex\tex\generic\bitset\bitset.sty
-INPUT C:\D\latex\mike_tex\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\D\latex\mike_tex\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\D\latex\mike_tex\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\hpdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\hpdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\hyperref\hpdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\atveryend\atveryend.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\atveryend-ltx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\base\atveryend-ltx.sty
-INPUT C:\D\latex\mike_tex\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\D\latex\mike_tex\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\D\latex\mike_tex\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\D\latex\mike_tex\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\D\latex\mike_tex\tex\latex\appendix\appendix.sty
-INPUT C:\D\latex\mike_tex\tex\latex\appendix\appendix.sty
-INPUT C:\D\latex\mike_tex\tex\latex\animate\animate.sty
-INPUT C:\D\latex\mike_tex\tex\latex\animate\animate.sty
-INPUT C:\D\latex\mike_tex\tex\latex\oberdiek\ifdraft.sty
-INPUT C:\D\latex\mike_tex\tex\latex\oberdiek\ifdraft.sty
-INPUT C:\D\latex\mike_tex\tex\latex\media9\pdfbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\media9\pdfbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\latex\zref\zref-abspage.sty
-INPUT C:\D\latex\mike_tex\tex\latex\zref\zref-abspage.sty
-INPUT C:\D\latex\mike_tex\tex\latex\zref\zref-base.sty
-INPUT C:\D\latex\mike_tex\tex\latex\zref\zref-base.sty
-INPUT C:\D\latex\mike_tex\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\D\latex\mike_tex\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\D\latex\mike_tex\tex\latex\ocgx2\ocgbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\ocgx2\ocgbase.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\listings.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\listings.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\lstmisc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\lstmisc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\lstmisc.sty
-INPUT C:\D\latex\mike_tex\tex\latex\listings\listings.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\listings\listings.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\listings\listings.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\float\float.sty
-INPUT C:\D\latex\mike_tex\tex\latex\float\float.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsmath.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsmath.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsopn.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amstext.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amstext.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsgen.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsgen.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsbsy.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsbsy.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsmath\amsopn.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\amssymb.sty
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\amssymb.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfutil-common.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfutil-latex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\pgf.revision.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\pgf.revision.tex
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgf.cfg
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathutil.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathparser.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathcalc.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmathfloat.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfint.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\D\latex\mike_tex\tex\latex\pgfplots\pgfplots.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pgfplots\pgfplots.sty
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys-luatex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\systemlayer\pgfsys-luatex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotscore.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotsutil.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\util\pgfplotscolor.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.scaling.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.errorbars.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.markers.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplotsticks.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\pgfplots.paths.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
-INPUT C:\D\latex\mike_tex\tex\latex\titlesec\titlesec.sty
-INPUT C:\D\latex\mike_tex\tex\latex\titlesec\titlesec.sty
-INPUT C:\D\latex\mike_tex\tex\latex\geometry\geometry.sty
-INPUT C:\D\latex\mike_tex\tex\latex\geometry\geometry.sty
-INPUT C:\D\latex\mike_tex\tex\generic\iftex\ifvtex.sty
-INPUT C:\D\latex\mike_tex\tex\generic\iftex\ifvtex.sty
-INPUT C:\D\latex\mike_tex\tex\latex\geometry\geometry.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\geometry\geometry.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\geometry\geometry.cfg
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\D\latex\mike_tex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\D\latex\mike_tex\tex\latex\caption\caption.sty
-INPUT C:\D\latex\mike_tex\tex\latex\caption\caption.sty
-INPUT C:\D\latex\mike_tex\tex\latex\caption\caption3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\caption\caption3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\caption\subcaption.sty
-INPUT C:\D\latex\mike_tex\tex\latex\caption\subcaption.sty
-INPUT C:\D\latex\mike_tex\tex\latex\tools\array.sty
-INPUT C:\D\latex\mike_tex\tex\latex\tools\array.sty
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.sty
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.sty
-INPUT C:\D\latex\mike_tex\tex\latex\logreq\logreq.sty
-INPUT C:\D\latex\mike_tex\tex\latex\logreq\logreq.sty
-INPUT C:\D\latex\mike_tex\tex\latex\logreq\logreq.def
-INPUT C:\D\latex\mike_tex\tex\latex\logreq\logreq.def
-INPUT C:\D\latex\mike_tex\tex\latex\logreq\logreq.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-dm.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-dm.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-dm.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-compat.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-compat.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-compat.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.def
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\biblatex.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\l3kernel\expl3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\l3kernel\expl3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\D\latex\mike_tex\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\D\latex\mike_tex\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\D\latex\mike_tex\tex\latex\nomencl\nomencl.sty
-INPUT C:\D\latex\mike_tex\tex\latex\nomencl\nomencl.sty
-INPUT C:\D\latex\mike_tex\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\D\latex\mike_tex\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\D\latex\mike_tex\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\D\latex\mike_tex\tex\generic\xkeyval\xkvutils.tex
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\tocbasic.sty
-INPUT C:\D\latex\mike_tex\tex\latex\koma-script\tocbasic.sty
+INPUT D:\New folder\tex\latex\base\report.cls
+INPUT D:\New folder\tex\latex\base\report.cls
+INPUT D:\New folder\tex\latex\base\size12.clo
+INPUT D:\New folder\tex\latex\base\size12.clo
+INPUT D:\New folder\tex\latex\base\size12.clo
+INPUT D:\New folder\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\New folder\tex\latex\pdfpages\pdfpages.sty
+INPUT D:\New folder\tex\latex\pdfpages\pdfpages.sty
+INPUT D:\New folder\tex\latex\base\ifthen.sty
+INPUT D:\New folder\tex\latex\base\ifthen.sty
+INPUT D:\New folder\tex\latex\tools\calc.sty
+INPUT D:\New folder\tex\latex\tools\calc.sty
+INPUT D:\New folder\tex\latex\eso-pic\eso-pic.sty
+INPUT D:\New folder\tex\latex\eso-pic\eso-pic.sty
+INPUT D:\New folder\tex\latex\graphics\keyval.sty
+INPUT D:\New folder\tex\latex\graphics\keyval.sty
+INPUT D:\New folder\tex\latex\xcolor\xcolor.sty
+INPUT D:\New folder\tex\latex\xcolor\xcolor.sty
+INPUT D:\New folder\tex\latex\xcolor\xcolor.sty
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\color.cfg
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\graphics-def\pdftex.def
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\graphics\mathcolor.ltx
+INPUT D:\New folder\tex\latex\graphics\graphicx.sty
+INPUT D:\New folder\tex\latex\graphics\graphicx.sty
+INPUT D:\New folder\tex\latex\graphics\graphics.sty
+INPUT D:\New folder\tex\latex\graphics\graphics.sty
+INPUT D:\New folder\tex\latex\graphics\trig.sty
+INPUT D:\New folder\tex\latex\graphics\trig.sty
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\New folder\tex\latex\pdfpages\pppdftex.def
+INPUT D:\New folder\tex\latex\pdfpages\pppdftex.def
+INPUT D:\New folder\tex\latex\pdfpages\pppdftex.def
+INPUT D:\New folder\tex\latex\koma-script\scrextend.sty
+INPUT D:\New folder\tex\latex\koma-script\scrextend.sty
+INPUT D:\New folder\tex\latex\koma-script\scrkbase.sty
+INPUT D:\New folder\tex\latex\koma-script\scrkbase.sty
+INPUT D:\New folder\tex\latex\koma-script\scrbase.sty
+INPUT D:\New folder\tex\latex\koma-script\scrbase.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlfile.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlfile.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlfile-hook.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlfile-hook.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlogo.sty
+INPUT D:\New folder\tex\latex\koma-script\scrlogo.sty
+INPUT D:\New folder\tex\latex\footmisc\footmisc.sty
+INPUT D:\New folder\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\New folder\tex\latex\setspace\setspace.sty
+INPUT D:\New folder\tex\latex\setspace\setspace.sty
+INPUT D:\New folder\tex\latex\base\inputenc.sty
+INPUT D:\New folder\tex\latex\base\inputenc.sty
+INPUT D:\New folder\tex\latex\vntex\vietnam.sty
+INPUT D:\New folder\tex\latex\vntex\vietnam.sty
+INPUT D:\New folder\tex\latex\base\fontenc.sty
+INPUT D:\New folder\tex\latex\base\fontenc.sty
+INPUT D:\New folder\tex\latex\vntex\t5enc.def
+INPUT D:\New folder\tex\latex\vntex\t5enc.def
+INPUT D:\New folder\tex\latex\vntex\t5enc.def
+INPUT D:\New folder\tex\latex\vntex\t5enc.dfu
+INPUT D:\New folder\tex\latex\vntex\t5enc.dfu
+INPUT D:\New folder\tex\latex\vntex\t5enc.dfu
+INPUT D:\New folder\tex\latex\vntex\t5cmr.fd
+INPUT D:\New folder\tex\latex\vntex\t5cmr.fd
+INPUT D:\New folder\tex\latex\vntex\t5cmr.fd
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT D:\New folder\tex\latex\vntex\vncaps.tex
+INPUT D:\New folder\tex\latex\vntex\vncaps.tex
+INPUT D:\New folder\tex\latex\vntex\vncaps.tex
+INPUT D:\New folder\tex\latex\hyperref\hyperref.sty
+INPUT D:\New folder\tex\latex\hyperref\hyperref.sty
+INPUT D:\New folder\tex\generic\iftex\iftex.sty
+INPUT D:\New folder\tex\generic\iftex\iftex.sty
+INPUT D:\New folder\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\New folder\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\New folder\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\New folder\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\New folder\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT D:\New folder\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT D:\New folder\tex\generic\pdfescape\pdfescape.sty
+INPUT D:\New folder\tex\generic\pdfescape\pdfescape.sty
+INPUT D:\New folder\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\New folder\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\New folder\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\New folder\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\New folder\tex\latex\hycolor\hycolor.sty
+INPUT D:\New folder\tex\latex\hycolor\hycolor.sty
+INPUT D:\New folder\tex\latex\letltxmacro\letltxmacro.sty
+INPUT D:\New folder\tex\latex\letltxmacro\letltxmacro.sty
+INPUT D:\New folder\tex\latex\auxhook\auxhook.sty
+INPUT D:\New folder\tex\latex\auxhook\auxhook.sty
+INPUT D:\New folder\tex\latex\hyperref\nameref.sty
+INPUT D:\New folder\tex\latex\hyperref\nameref.sty
+INPUT D:\New folder\tex\latex\refcount\refcount.sty
+INPUT D:\New folder\tex\latex\refcount\refcount.sty
+INPUT D:\New folder\tex\generic\gettitlestring\gettitlestring.sty
+INPUT D:\New folder\tex\generic\gettitlestring\gettitlestring.sty
+INPUT D:\New folder\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\New folder\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\New folder\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\New folder\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\New folder\tex\latex\hyperref\pd1enc.def
+INPUT D:\New folder\tex\latex\hyperref\pd1enc.def
+INPUT D:\New folder\tex\latex\hyperref\pd1enc.def
+INPUT D:\New folder\tex\generic\intcalc\intcalc.sty
+INPUT D:\New folder\tex\generic\intcalc\intcalc.sty
+INPUT D:\New folder\tex\latex\hyperref\puenc.def
+INPUT D:\New folder\tex\latex\hyperref\puenc.def
+INPUT D:\New folder\tex\latex\hyperref\puenc.def
+INPUT D:\New folder\tex\latex\url\url.sty
+INPUT D:\New folder\tex\latex\url\url.sty
+INPUT D:\New folder\tex\generic\bitset\bitset.sty
+INPUT D:\New folder\tex\generic\bitset\bitset.sty
+INPUT D:\New folder\tex\generic\bigintcalc\bigintcalc.sty
+INPUT D:\New folder\tex\generic\bigintcalc\bigintcalc.sty
+INPUT D:\New folder\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\New folder\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\New folder\tex\latex\base\atbegshi-ltx.sty
+INPUT D:\New folder\tex\latex\hyperref\hpdftex.def
+INPUT D:\New folder\tex\latex\hyperref\hpdftex.def
+INPUT D:\New folder\tex\latex\hyperref\hpdftex.def
+INPUT D:\New folder\tex\latex\atveryend\atveryend.sty
+INPUT D:\New folder\tex\latex\base\atveryend-ltx.sty
+INPUT D:\New folder\tex\latex\base\atveryend-ltx.sty
+INPUT D:\New folder\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT D:\New folder\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT D:\New folder\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\New folder\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\New folder\tex\latex\appendix\appendix.sty
+INPUT D:\New folder\tex\latex\appendix\appendix.sty
+INPUT D:\New folder\tex\latex\animate\animate.sty
+INPUT D:\New folder\tex\latex\animate\animate.sty
+INPUT D:\New folder\tex\latex\oberdiek\ifdraft.sty
+INPUT D:\New folder\tex\latex\oberdiek\ifdraft.sty
+INPUT D:\New folder\tex\latex\media9\pdfbase.sty
+INPUT D:\New folder\tex\latex\media9\pdfbase.sty
+INPUT D:\New folder\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\New folder\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\New folder\tex\latex\zref\zref-abspage.sty
+INPUT D:\New folder\tex\latex\zref\zref-abspage.sty
+INPUT D:\New folder\tex\latex\zref\zref-base.sty
+INPUT D:\New folder\tex\latex\zref\zref-base.sty
+INPUT D:\New folder\tex\generic\etexcmds\etexcmds.sty
+INPUT D:\New folder\tex\generic\etexcmds\etexcmds.sty
+INPUT D:\New folder\tex\latex\ocgx2\ocgbase.sty
+INPUT D:\New folder\tex\latex\ocgx2\ocgbase.sty
+INPUT D:\New folder\tex\latex\listings\listings.sty
+INPUT D:\New folder\tex\latex\listings\listings.sty
+INPUT D:\New folder\tex\latex\listings\lstmisc.sty
+INPUT D:\New folder\tex\latex\listings\lstmisc.sty
+INPUT D:\New folder\tex\latex\listings\lstmisc.sty
+INPUT D:\New folder\tex\latex\listings\listings.cfg
+INPUT D:\New folder\tex\latex\listings\listings.cfg
+INPUT D:\New folder\tex\latex\listings\listings.cfg
+INPUT D:\New folder\tex\latex\float\float.sty
+INPUT D:\New folder\tex\latex\float\float.sty
+INPUT D:\New folder\tex\latex\amsmath\amsmath.sty
+INPUT D:\New folder\tex\latex\amsmath\amsmath.sty
+INPUT D:\New folder\tex\latex\amsmath\amsopn.sty
+INPUT D:\New folder\tex\latex\amsmath\amstext.sty
+INPUT D:\New folder\tex\latex\amsmath\amstext.sty
+INPUT D:\New folder\tex\latex\amsmath\amsgen.sty
+INPUT D:\New folder\tex\latex\amsmath\amsgen.sty
+INPUT D:\New folder\tex\latex\amsmath\amsbsy.sty
+INPUT D:\New folder\tex\latex\amsmath\amsbsy.sty
+INPUT D:\New folder\tex\latex\amsmath\amsopn.sty
+INPUT D:\New folder\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\New folder\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\New folder\tex\latex\amsfonts\amssymb.sty
+INPUT D:\New folder\tex\latex\amsfonts\amssymb.sty
+INPUT D:\New folder\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\New folder\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT D:\New folder\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\New folder\tex\latex\pgf\basiclayer\pgf.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT D:\New folder\tex\generic\pgf\pgf.revision.tex
+INPUT D:\New folder\tex\generic\pgf\pgf.revision.tex
+INPUT D:\New folder\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\New folder\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT D:\New folder\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\New folder\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfint.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT D:\New folder\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT D:\New folder\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT D:\New folder\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT D:\New folder\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\New folder\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT D:\New folder\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\New folder\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgffor.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\New folder\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT D:\New folder\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\New folder\tex\latex\pgf\math\pgfmath.sty
+INPUT D:\New folder\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\New folder\tex\generic\pgf\math\pgfmath.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\New folder\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT D:\New folder\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT D:\New folder\tex\latex\pgfplots\pgfplots.sty
+INPUT D:\New folder\tex\latex\pgfplots\pgfplots.sty
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT D:\New folder\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT D:\New folder\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT D:\New folder\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT D:\New folder\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT D:\New folder\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT D:\New folder\tex\latex\titlesec\titlesec.sty
+INPUT D:\New folder\tex\latex\titlesec\titlesec.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.sty
+INPUT D:\New folder\tex\generic\iftex\ifvtex.sty
+INPUT D:\New folder\tex\generic\iftex\ifvtex.sty
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\latex\geometry\geometry.cfg
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT D:\New folder\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT D:\New folder\tex\latex\caption\caption.sty
+INPUT D:\New folder\tex\latex\caption\caption.sty
+INPUT D:\New folder\tex\latex\caption\caption3.sty
+INPUT D:\New folder\tex\latex\caption\caption3.sty
+INPUT D:\New folder\tex\latex\caption\subcaption.sty
+INPUT D:\New folder\tex\latex\caption\subcaption.sty
+INPUT D:\New folder\tex\latex\tools\array.sty
+INPUT D:\New folder\tex\latex\tools\array.sty
+INPUT D:\New folder\tex\latex\biblatex\biblatex.sty
+INPUT D:\New folder\tex\latex\biblatex\biblatex.sty
+INPUT D:\New folder\tex\latex\logreq\logreq.sty
+INPUT D:\New folder\tex\latex\logreq\logreq.sty
+INPUT D:\New folder\tex\latex\logreq\logreq.def
+INPUT D:\New folder\tex\latex\logreq\logreq.def
+INPUT D:\New folder\tex\latex\logreq\logreq.def
+INPUT D:\New folder\tex\latex\biblatex\blx-dm.def
+INPUT D:\New folder\tex\latex\biblatex\blx-dm.def
+INPUT D:\New folder\tex\latex\biblatex\blx-dm.def
+INPUT D:\New folder\tex\latex\biblatex\blx-compat.def
+INPUT D:\New folder\tex\latex\biblatex\blx-compat.def
+INPUT D:\New folder\tex\latex\biblatex\blx-compat.def
+INPUT D:\New folder\tex\latex\biblatex\biblatex.def
+INPUT D:\New folder\tex\latex\biblatex\biblatex.def
+INPUT D:\New folder\tex\latex\biblatex\biblatex.def
+INPUT D:\New folder\tex\latex\biblatex\bbx\numeric.bbx
+INPUT D:\New folder\tex\latex\biblatex\bbx\numeric.bbx
+INPUT D:\New folder\tex\latex\biblatex\bbx\numeric.bbx
+INPUT D:\New folder\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\New folder\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\New folder\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\New folder\tex\latex\biblatex\cbx\numeric.cbx
+INPUT D:\New folder\tex\latex\biblatex\cbx\numeric.cbx
+INPUT D:\New folder\tex\latex\biblatex\cbx\numeric.cbx
+INPUT D:\New folder\tex\latex\biblatex\biblatex.cfg
+INPUT D:\New folder\tex\latex\biblatex\biblatex.cfg
+INPUT D:\New folder\tex\latex\biblatex\biblatex.cfg
+INPUT D:\New folder\tex\latex\l3kernel\expl3.sty
+INPUT D:\New folder\tex\latex\l3kernel\expl3.sty
+INPUT D:\New folder\tex\latex\biblatex\blx-case-expl3.sty
+INPUT D:\New folder\tex\latex\biblatex\blx-case-expl3.sty
+INPUT D:\New folder\tex\latex\l3packages\xparse\xparse.sty
+INPUT D:\New folder\tex\latex\l3packages\xparse\xparse.sty
+INPUT D:\New folder\tex\latex\nomencl\nomencl.sty
+INPUT D:\New folder\tex\latex\nomencl\nomencl.sty
+INPUT D:\New folder\tex\latex\xkeyval\xkeyval.sty
+INPUT D:\New folder\tex\latex\xkeyval\xkeyval.sty
+INPUT D:\New folder\tex\generic\xkeyval\xkeyval.tex
+INPUT D:\New folder\tex\generic\xkeyval\xkvutils.tex
+INPUT D:\New folder\tex\latex\koma-script\tocbasic.sty
+INPUT D:\New folder\tex\latex\koma-script\tocbasic.sty
 OUTPUT main_New.nlo
-INPUT C:\D\latex\mike_tex\tex\latex\mathtools\mathtools.sty
-INPUT C:\D\latex\mike_tex\tex\latex\mathtools\mathtools.sty
-INPUT C:\D\latex\mike_tex\tex\latex\mathtools\mhsetup.sty
-INPUT C:\D\latex\mike_tex\tex\latex\mathtools\mhsetup.sty
+INPUT D:\New folder\tex\latex\mathtools\mathtools.sty
+INPUT D:\New folder\tex\latex\mathtools\mathtools.sty
+INPUT D:\New folder\tex\latex\mathtools\mhsetup.sty
+INPUT D:\New folder\tex\latex\mathtools\mhsetup.sty
 INPUT .\main_New.aux
 INPUT .\main_New.aux
 INPUT main_New.aux
 OUTPUT main_New.aux
-INPUT C:\D\latex\mike_tex\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\D\latex\mike_tex\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\D\latex\mike_tex\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\D\latex\mike_tex\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\D\latex\mike_tex\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\D\latex\mike_tex\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\D\latex\mike_tex\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\D\latex\mike_tex\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\lscape.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\lscape.sty
-INPUT C:\D\latex\mike_tex\tex\latex\graphics\color.sty
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\New folder\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\New folder\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\New folder\tex\latex\pdflscape\pdflscape.sty
+INPUT D:\New folder\tex\latex\pdflscape\pdflscape.sty
+INPUT D:\New folder\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT D:\New folder\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT D:\New folder\tex\latex\graphics\lscape.sty
+INPUT D:\New folder\tex\latex\graphics\lscape.sty
+INPUT D:\New folder\tex\latex\graphics\color.sty
 INPUT .\main_New.out
 INPUT .\main_New.out
 INPUT main_New.out
@@ -425,9 +425,9 @@ OUTPUT main_New.pdf
 INPUT .\main_New.out
 INPUT .\main_New.out
 OUTPUT main_New.out
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\D\latex\mike_tex\tex\latex\biblatex\lbx\english.lbx
+INPUT D:\New folder\tex\latex\biblatex\lbx\english.lbx
+INPUT D:\New folder\tex\latex\biblatex\lbx\english.lbx
+INPUT D:\New folder\tex\latex\biblatex\lbx\english.lbx
 OUTPUT main_New.bcf
 INPUT main_New.bbl
 INPUT .\main_New.bbl
@@ -439,8 +439,8 @@ INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
 INPUT chapters\titlepage.tex
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vncsc10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vncsc10.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vncsc10.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vncsc10.tfm
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
@@ -448,29 +448,29 @@ INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vncsc10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr17.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnbx12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnti12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsa.fd
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsa.fd
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsa.fd
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsb.fd
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsb.fd
-INPUT C:\D\latex\mike_tex\tex\latex\amsfonts\umsb.fd
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnsl12.tfm
-INPUT C:\Users\tam\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vncsc10.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnti12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\New folder\tex\latex\amsfonts\umsa.fd
+INPUT D:\New folder\tex\latex\amsfonts\umsa.fd
+INPUT D:\New folder\tex\latex\amsfonts\umsa.fd
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\New folder\tex\latex\amsfonts\umsb.fd
+INPUT D:\New folder\tex\latex\amsfonts\umsb.fd
+INPUT D:\New folder\tex\latex\amsfonts\umsb.fd
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\New folder\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnsl12.tfm
+INPUT C:\Users\sjeux\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
 INPUT .\Images\HUS_logo.png
@@ -478,12 +478,12 @@ INPUT .\Images\HUS_logo.png
 INPUT .\chapters\thanks.tex
 INPUT .\chapters\thanks.tex
 INPUT chapters\thanks.tex
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr17.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnbx12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnbx12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnti12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr17.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnti12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT .\main_New.toc
 INPUT .\main_New.toc
 INPUT main_New.toc
@@ -492,14 +492,14 @@ INPUT .\main_New.lof
 INPUT .\main_New.lof
 INPUT main_New.lof
 OUTPUT main_New.lof
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr17.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT .\chapters\Intro.tex
 INPUT .\chapters\Intro.tex
 INPUT .\chapters\Intro.tex
 INPUT .\chapters\Intro.tex
 INPUT chapters\Intro.tex
-INPUT C:\D\latex\mike_tex\fonts\tfm\jknappen\ec\tcrm1440.tfm
+INPUT D:\New folder\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT .\chapters\related_work.tex
 INPUT .\chapters\related_work.tex
 INPUT .\chapters\related_work.tex
@@ -515,8 +515,8 @@ INPUT .\chapters\CSLT\group_theory.tex
 INPUT .\chapters\CSLT\group_theory.tex
 INPUT .\chapters\CSLT\group_theory.tex
 INPUT chapters\CSLT\group_theory.tex
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr7.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr10.tfm
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vnr7.tfm
 INPUT .\chapters\CSLT\TFN.tex
 INPUT .\chapters\CSLT\TFN.tex
 INPUT .\chapters\CSLT\TFN.tex
@@ -724,9 +724,9 @@ INPUT .\Images\GDL\manifold_mesh\local_global_inv.png
 INPUT .\Images\GDL\manifold_mesh\local_global_inv.png
 INPUT .\Images\GDL\manifold_mesh\local_global_inv.png
 INPUT .\Images\GDL\manifold_mesh\local_global_inv.png
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\D\latex\mike_tex\fonts\tfm\public\cm\cmbx7.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx10.tfm
+INPUT D:\New folder\fonts\tfm\public\cm\cmbx7.tfm
 INPUT .\Images\GDL\manifold_mesh\mani_cnn\mani_cnn.png
 INPUT .\Images\GDL\manifold_mesh\mani_cnn\mani_cnn.png
 INPUT .\Images\GDL\manifold_mesh\mani_cnn\mani_cnn.png
@@ -840,67 +840,50 @@ INPUT .\chapters\Conclusion.tex
 INPUT .\chapters\Conclusion.tex
 INPUT .\chapters\Conclusion.tex
 INPUT chapters\Conclusion.tex
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmtt.fd
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmtt.fd
-INPUT C:\D\latex\mike_tex\tex\latex\vntex\t5cmtt.fd
-INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vntt12.tfm
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
-INPUT .\nhan_xet_thuc_tap.pdf
+INPUT D:\New folder\tex\latex\vntex\t5cmtt.fd
+INPUT D:\New folder\tex\latex\vntex\t5cmtt.fd
+INPUT D:\New folder\tex\latex\vntex\t5cmtt.fd
+INPUT D:\New folder\fonts\tfm\vntex\vnr\vntt12.tfm
 INPUT main_New.aux
 INPUT .\main_New.out
 INPUT .\main_New.out
 INPUT main_New.run.xml
 OUTPUT main_New.run.xml
-INPUT C:\Users\tam\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
-INPUT C:\Users\tam\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnbx12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnbx12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vncsc10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vncsc10.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnr12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnr12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnr17.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnr17.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnsl12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnsl12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnti12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vnti12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vntt12.pfb
-INPUT C:\D\latex\mike_tex\fonts\type1\vntex\vnr\vntt12.pfb
+INPUT C:\Users\sjeux\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\sjeux\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT D:\New folder\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnbx12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnbx12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vncsc10.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vncsc10.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnr12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnr12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnr17.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnr17.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnsl12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnsl12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnti12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vnti12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vntt12.pfb
+INPUT D:\New folder\fonts\type1\vntex\vnr\vntt12.pfb
