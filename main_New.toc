@@ -1,4 +1,4 @@
-\contentsline {chapter}{Danh sách hình vẽ}{ii}{chapter*.1}%
+\contentsline {chapter}{Danh sách hình vẽ}{iii}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}GIỚI THIỆU}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}CÁC CÔNG TRÌNH LIÊN QUAN}{4}{chapter.2}%
 \contentsline {chapter}{\numberline {3}CƠ SỞ LÝ THUYẾT}{6}{chapter.3}%
