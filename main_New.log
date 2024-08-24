@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.19)  24 AUG 2024 09:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.19)  24 AUG 2024 09:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1272,7 +1272,7 @@ Ch\uhorn \ohorn ng 3.
 (chapters/CSLT.tex (chapters/CSLT/group_theory.tex [6
 
 ] [7] [8] [9]) (chapters/CSLT/TFN.tex [10]
-<Images/GDL/inva_equi.png, id=435, 580.1675pt x 150.06062pt>
+<Images/GDL/inva_equi.png, id=437, 580.1675pt x 150.06062pt>
 File: Images/GDL/inva_equi.png Graphic file (type png)
 <use Images/GDL/inva_equi.png>
 Package pdftex.def Info: Images/GDL/inva_equi.png  used on input line 11.
@@ -1282,206 +1282,206 @@ Ch\uhorn \ohorn ng 4.
 (chapters/GDL.tex (chapters/GDL/tong_quan_gdl.tex [19
 
 ] [20] [21]
-<Images/GDL/gdl_data.png, id=531, 616.55344pt x 231.11343pt>
+<Images/GDL/gdl_data.png, id=533, 616.55344pt x 231.11343pt>
 File: Images/GDL/gdl_data.png Graphic file (type png)
 <use Images/GDL/gdl_data.png>
 Package pdftex.def Info: Images/GDL/gdl_data.png  used on input line 55.
 (pdftex.def)             Requested size: 328.6279pt x 123.18777pt.
-<Images/GDL/gdl_model_data.png, id=535, 621.07031pt x 371.88937pt>
+<Images/GDL/gdl_model_data.png, id=537, 621.07031pt x 371.88937pt>
 File: Images/GDL/gdl_model_data.png Graphic file (type png)
 <use Images/GDL/gdl_model_data.png>
 Package pdftex.def Info: Images/GDL/gdl_model_data.png  used on input line 64.
 (pdftex.def)             Requested size: 469.47049pt x 281.1124pt.
  [22 <./Images/GDL/gdl_data.png>] (chapters/GDL/graph.tex
-<Images/GDL/graph/graph_vd.png, id=548, 636.12656pt x 273.27094pt>
+<Images/GDL/graph/graph_vd.png, id=550, 636.12656pt x 273.27094pt>
 File: Images/GDL/graph/graph_vd.png Graphic file (type png)
 <use Images/GDL/graph/graph_vd.png>
 Package pdftex.def Info: Images/GDL/graph/graph_vd.png  used on input line 6.
 (pdftex.def)             Requested size: 328.6279pt x 141.17183pt.
  [23 <./Images/GDL/gdl_model_data.png>]
-<Images/GDL/graph/graph_represent.png, id=558, 260.47313pt x 201.75375pt>
+<Images/GDL/graph/graph_represent.png, id=560, 260.47313pt x 201.75375pt>
 File: Images/GDL/graph/graph_represent.png Graphic file (type png)
 <use Images/GDL/graph/graph_represent.png>
 Package pdftex.def Info: Images/GDL/graph/graph_represent.png  used on input line 15.
 (pdftex.def)             Requested size: 328.6279pt x 254.54662pt.
  [24 <./Images/GDL/graph/graph_vd.png> <./Images/GDL/graph/graph_represent.png>]
-<Images/GDL/graph/inva_equi_permutation.png, id=568, 339.76938pt x 241.90375pt>
+<Images/GDL/graph/inva_equi_permutation.png, id=570, 339.76938pt x 241.90375pt>
 File: Images/GDL/graph/inva_equi_permutation.png Graphic file (type png)
 <use Images/GDL/graph/inva_equi_permutation.png>
 Package pdftex.def Info: Images/GDL/graph/inva_equi_permutation.png  used on input line 25.
 (pdftex.def)             Requested size: 469.47049pt x 334.26308pt.
-<Images/GDL/graph/gnn_structure.png, id=571, 513.41812pt x 240.9pt>
+<Images/GDL/graph/gnn_structure.png, id=573, 513.41812pt x 240.9pt>
 File: Images/GDL/graph/gnn_structure.png Graphic file (type png)
 <use Images/GDL/graph/gnn_structure.png>
 Package pdftex.def Info: Images/GDL/graph/gnn_structure.png  used on input line 32.
 (pdftex.def)             Requested size: 469.47049pt x 220.28165pt.
  [25 <./Images/GDL/graph/inva_equi_permutation.png>]
-<Images/GDL/graph/message_passing.png, id=580, 446.41782pt x 149.8097pt>
+<Images/GDL/graph/message_passing.png, id=582, 446.41782pt x 149.8097pt>
 File: Images/GDL/graph/message_passing.png Graphic file (type png)
 <use Images/GDL/graph/message_passing.png>
 Package pdftex.def Info: Images/GDL/graph/message_passing.png  used on input line 42.
 (pdftex.def)             Requested size: 328.6279pt x 110.28366pt.
  [26 <./Images/GDL/graph/gnn_structure.png> <./Images/GDL/graph/message_passing.png>]
-<Images/GDL/graph/gcn_gat.png, id=592, 313.17pt x 241.90375pt>
+<Images/GDL/graph/gcn_gat.png, id=594, 313.17pt x 241.90375pt>
 File: Images/GDL/graph/gcn_gat.png Graphic file (type png)
 <use Images/GDL/graph/gcn_gat.png>
 Package pdftex.def Info: Images/GDL/graph/gcn_gat.png  used on input line 53.
 (pdftex.def)             Requested size: 328.6279pt x 253.8514pt.
-<Images/GDL/graph/deepset.png, id=596, 249.18094pt x 217.5628pt>
+<Images/GDL/graph/deepset.png, id=598, 249.18094pt x 217.5628pt>
 File: Images/GDL/graph/deepset.png Graphic file (type png)
 <use Images/GDL/graph/deepset.png>
 Package pdftex.def Info: Images/GDL/graph/deepset.png  used on input line 65.
 (pdftex.def)             Requested size: 187.78532pt x 163.96179pt.
  [27 <./Images/GDL/graph/gcn_gat.png>]
-<Images/GDL/graph/transformer.png, id=608, 408.77719pt x 248.42813pt>
+<Images/GDL/graph/transformer.png, id=610, 408.77719pt x 248.42813pt>
 File: Images/GDL/graph/transformer.png Graphic file (type png)
 <use Images/GDL/graph/transformer.png>
 Package pdftex.def Info: Images/GDL/graph/transformer.png  used on input line 74.
 (pdftex.def)             Requested size: 328.6279pt x 199.72835pt.
  [28 <./Images/GDL/graph/deepset.png> <./Images/GDL/graph/transformer.png>]
-<Images/GDL/graph/gnn_geometric.png, id=620, 617.30624pt x 295.1025pt>
+<Images/GDL/graph/gnn_geometric.png, id=622, 617.30624pt x 295.1025pt>
 File: Images/GDL/graph/gnn_geometric.png Graphic file (type png)
 <use Images/GDL/graph/gnn_geometric.png>
 Package pdftex.def Info: Images/GDL/graph/gnn_geometric.png  used on input line 85.
 (pdftex.def)             Requested size: 469.47049pt x 224.43782pt.
  [29 <./Images/GDL/graph/gnn_geometric.png>]
-<Images/GDL/graph/manifold.png, id=634, 313.17pt x 270.51062pt>
+<Images/GDL/graph/manifold.png, id=636, 313.17pt x 270.51062pt>
 File: Images/GDL/graph/manifold.png Graphic file (type png)
 <use Images/GDL/graph/manifold.png>
 Package pdftex.def Info: Images/GDL/graph/manifold.png  used on input line 98.
 (pdftex.def)             Requested size: 328.6279pt x 283.87115pt.
-<Images/GDL/graph/grid_ex.png, id=639, 402.00188pt x 178.41656pt>
+<Images/GDL/graph/grid_ex.png, id=641, 402.00188pt x 178.41656pt>
 File: Images/GDL/graph/grid_ex.png Graphic file (type png)
 <use Images/GDL/graph/grid_ex.png>
 Package pdftex.def Info: Images/GDL/graph/grid_ex.png  used on input line 108.
 (pdftex.def)             Requested size: 328.6279pt x 145.85059pt.
  [30 <./Images/GDL/graph/manifold.png>]
-<Images/GDL/graph/grid_agg.png, id=650, 406.51875pt x 169.38281pt>
+<Images/GDL/graph/grid_agg.png, id=652, 406.51875pt x 169.38281pt>
 File: Images/GDL/graph/grid_agg.png Graphic file (type png)
 <use Images/GDL/graph/grid_agg.png>
 Package pdftex.def Info: Images/GDL/graph/grid_agg.png  used on input line 118.
 (pdftex.def)             Requested size: 328.6279pt x 136.9331pt.
 )
-<Images/GDL/grid_conv/grid_conv.png, id=654, 434.37282pt x 225.09094pt>
+<Images/GDL/grid_conv/grid_conv.png, id=656, 434.37282pt x 225.09094pt>
 File: Images/GDL/grid_conv/grid_conv.png Graphic file (type png)
 <use Images/GDL/grid_conv/grid_conv.png>
 Package pdftex.def Info: Images/GDL/grid_conv/grid_conv.png  used on input line 78.
 (pdftex.def)             Requested size: 469.47049pt x 243.2938pt.
  [31 <./Images/GDL/graph/grid_ex.png> <./Images/GDL/graph/grid_agg.png>]
-<Images/GDL/grid_conv/shift_matrix.png, id=666, 396.7322pt x 395.22656pt>
+<Images/GDL/grid_conv/shift_matrix.png, id=668, 396.7322pt x 395.22656pt>
 File: Images/GDL/grid_conv/shift_matrix.png Graphic file (type png)
 <use Images/GDL/grid_conv/shift_matrix.png>
 Package pdftex.def Info: Images/GDL/grid_conv/shift_matrix.png  used on input line 89.
 (pdftex.def)             Requested size: 187.78532pt x 187.07721pt.
  [32 <./Images/GDL/grid_conv/grid_conv.png>]
-<Images/GDL/grid_conv/CSSC.png, id=675, 719.68875pt x 307.1475pt>
+<Images/GDL/grid_conv/CSSC.png, id=677, 719.68875pt x 307.1475pt>
 File: Images/GDL/grid_conv/CSSC.png Graphic file (type png)
 <use Images/GDL/grid_conv/CSSC.png>
 Package pdftex.def Info: Images/GDL/grid_conv/CSSC.png  used on input line 98.
 (pdftex.def)             Requested size: 469.47049pt x 200.36525pt.
  [33 <./Images/GDL/grid_conv/shift_matrix.png> <./Images/GDL/grid_conv/CSSC.png>]
-<Images/GDL/grid_conv/convolution_diagon.png, id=684, 733.23938pt x 234.1247pt>
+<Images/GDL/grid_conv/convolution_diagon.png, id=686, 733.23938pt x 234.1247pt>
 File: Images/GDL/grid_conv/convolution_diagon.png Graphic file (type png)
 <use Images/GDL/grid_conv/convolution_diagon.png>
 Package pdftex.def Info: Images/GDL/grid_conv/convolution_diagon.png  used on input line 107.
 (pdftex.def)             Requested size: 469.47049pt x 149.90358pt.
  (chapters/GDL/tong_quat_hoa_conv.tex [34 <./Images/GDL/grid_conv/convolution_diagon.png>]
-<Images/GDL/sphere_conv/sphere_img.png, id=695, 521.69907pt x 272.51813pt>
+<Images/GDL/sphere_conv/sphere_img.png, id=697, 521.69907pt x 272.51813pt>
 File: Images/GDL/sphere_conv/sphere_img.png Graphic file (type png)
 <use Images/GDL/sphere_conv/sphere_img.png>
 Package pdftex.def Info: Images/GDL/sphere_conv/sphere_img.png  used on input line 23.
 (pdftex.def)             Requested size: 328.6279pt x 171.66653pt.
  [35] [36 <./Images/GDL/sphere_conv/sphere_img.png>] [37]
-<Images/GDL/manifold_mesh/why_mani.png, id=727, 685.8122pt x 338.01282pt>
+<Images/GDL/manifold_mesh/why_mani.png, id=729, 685.8122pt x 338.01282pt>
 File: Images/GDL/manifold_mesh/why_mani.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/why_mani.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/why_mani.png  used on input line 57.
 (pdftex.def)             Requested size: 375.57782pt x 185.11333pt.
  [38 <./Images/GDL/manifold_mesh/why_mani.png>]
-<Images/GDL/manifold_mesh/protein.png, id=738, 732.48656pt x 377.91188pt>
+<Images/GDL/manifold_mesh/protein.png, id=740, 732.48656pt x 377.91188pt>
 File: Images/GDL/manifold_mesh/protein.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/protein.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/protein.png  used on input line 72.
 (pdftex.def)             Requested size: 469.47049pt x 242.21452pt.
  [39]
-<Images/GDL/manifold_mesh/E_CNN.png, id=749, 700.86844pt x 298.86656pt>
+<Images/GDL/manifold_mesh/E_CNN.png, id=751, 700.86844pt x 298.86656pt>
 File: Images/GDL/manifold_mesh/E_CNN.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/E_CNN.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/E_CNN.png  used on input line 86.
 (pdftex.def)             Requested size: 469.47049pt x 200.1985pt.
  [40 <./Images/GDL/manifold_mesh/protein.png>]
-<Images/GDL/manifold_mesh/sp_cnn_ex.png, id=758, 700.86844pt x 316.93407pt>
+<Images/GDL/manifold_mesh/sp_cnn_ex.png, id=760, 700.86844pt x 316.93407pt>
 File: Images/GDL/manifold_mesh/sp_cnn_ex.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/sp_cnn_ex.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/sp_cnn_ex.png  used on input line 93.
 (pdftex.def)             Requested size: 469.47049pt x 212.3012pt.
-<Images/GDL/manifold_mesh/mobius_ex.png, id=761, 743.77875pt x 306.39468pt>
+<Images/GDL/manifold_mesh/mobius_ex.png, id=763, 743.77875pt x 306.39468pt>
 File: Images/GDL/manifold_mesh/mobius_ex.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/mobius_ex.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/mobius_ex.png  used on input line 100.
 (pdftex.def)             Requested size: 469.47049pt x 193.399pt.
  [41 <./Images/GDL/manifold_mesh/E_CNN.png> <./Images/GDL/manifold_mesh/sp_cnn_ex.png>]
-<Images/GDL/manifold_mesh/local_global_inv.png, id=776, 700.86844pt x 330.48468pt>
+<Images/GDL/manifold_mesh/local_global_inv.png, id=778, 700.86844pt x 330.48468pt>
 File: Images/GDL/manifold_mesh/local_global_inv.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/local_global_inv.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/local_global_inv.png  used on input line 114.
 (pdftex.def)             Requested size: 469.47049pt x 221.37819pt.
  [42 <./Images/GDL/manifold_mesh/mobius_ex.png>] [43 <./Images/GDL/manifold_mesh/local_global_inv.png>]
-<Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png, id=791, 383.18156pt x 388.45125pt>
+<Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png, id=793, 383.18156pt x 388.45125pt>
 File: Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png  used on input line 154.
 (pdftex.def)             Requested size: 469.47049pt x 475.95473pt.
  [44]
-<Images/GDL/manifold_mesh/mani_cnn/app_mani.png, id=800, 1445.4pt x 813.0375pt>
+<Images/GDL/manifold_mesh/mani_cnn/app_mani.png, id=802, 1445.4pt x 813.0375pt>
 File: Images/GDL/manifold_mesh/mani_cnn/app_mani.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/mani_cnn/app_mani.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/mani_cnn/app_mani.png  used on input line 162.
 (pdftex.def)             Requested size: 469.47049pt x 264.07278pt.
  [45 <./Images/GDL/manifold_mesh/mani_cnn/mani_cnn.png>]
-<Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png, id=810, 682.80093pt x 368.1253pt>
+<Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png, id=812, 682.80093pt x 368.1253pt>
 File: Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png  used on input line 170.
 (pdftex.def)             Requested size: 469.47049pt x 253.1136pt.
  [46 <./Images/GDL/manifold_mesh/mani_cnn/app_mani.png>]
-<Images/GDL/manifold_mesh/mani_cnn/3d_hand.png, id=820, 810.02625pt x 337.26pt>
+<Images/GDL/manifold_mesh/mani_cnn/3d_hand.png, id=822, 810.02625pt x 337.26pt>
 File: Images/GDL/manifold_mesh/mani_cnn/3d_hand.png Graphic file (type png)
 <use Images/GDL/manifold_mesh/mani_cnn/3d_hand.png>
 Package pdftex.def Info: Images/GDL/manifold_mesh/mani_cnn/3d_hand.png  used on input line 178.
 (pdftex.def)             Requested size: 469.47049pt x 195.47198pt.
 ) (chapters/GDL/gdl_nlp.tex [47 <./Images/GDL/manifold_mesh/mani_cnn/computer_graphic.png> <./Images/GDL/manifold_mesh/mani_cnn/3d_hand.png>]
-<Images/GDL/amr_ex.png, id=834, 407.5225pt x 264.99pt>
+<Images/GDL/amr_ex.png, id=836, 407.5225pt x 264.99pt>
 File: Images/GDL/amr_ex.png Graphic file (type png)
 <use Images/GDL/amr_ex.png>
 Package pdftex.def Info: Images/GDL/amr_ex.png  used on input line 11.
 (pdftex.def)             Requested size: 469.47049pt x 305.28603pt.
  [48]
-<Images/GDL/amr_ex_text.png, id=843, 280.79906pt x 126.4725pt>
+<Images/GDL/amr_ex_text.png, id=845, 280.79906pt x 126.4725pt>
 File: Images/GDL/amr_ex_text.png Graphic file (type png)
 <use Images/GDL/amr_ex_text.png>
 Package pdftex.def Info: Images/GDL/amr_ex_text.png  used on input line 20.
 (pdftex.def)             Requested size: 469.47049pt x 211.46304pt.
  [49 <./Images/GDL/amr_ex.png (PNG copy)>] [50 <./Images/GDL/amr_ex_text.png>] [51]
-<Images/GDL/amr_2_sym.png, id=862, 683.55376pt x 232.87pt>
+<Images/GDL/amr_2_sym.png, id=864, 683.55376pt x 232.87pt>
 File: Images/GDL/amr_2_sym.png Graphic file (type png)
 <use Images/GDL/amr_2_sym.png>
 Package pdftex.def Info: Images/GDL/amr_2_sym.png  used on input line 52.
 (pdftex.def)             Requested size: 469.47049pt x 159.94138pt.
  [52 <./Images/GDL/amr_2_sym.png>]
-<Images/GDL/new_AMR_structure.png, id=870, 868.74562pt x 464.4853pt>
+<Images/GDL/new_AMR_structure.png, id=872, 868.74562pt x 464.4853pt>
 File: Images/GDL/new_AMR_structure.png Graphic file (type png)
 <use Images/GDL/new_AMR_structure.png>
 Package pdftex.def Info: Images/GDL/new_AMR_structure.png  used on input line 73.
 (pdftex.def)             Requested size: 469.47049pt x 251.00969pt.
  [53] [54 <./Images/GDL/new_AMR_structure.png>]
-<Images/GDL/amr_translation.png, id=884, 877.02657pt x 519.44063pt>
+<Images/GDL/amr_translation.png, id=886, 877.02657pt x 519.44063pt>
 File: Images/GDL/amr_translation.png Graphic file (type png)
 <use Images/GDL/amr_translation.png>
 Package pdftex.def Info: Images/GDL/amr_translation.png  used on input line 85.
 (pdftex.def)             Requested size: 469.47049pt x 278.06047pt.
  [55 <./Images/GDL/amr_translation.png>]
-<Images/GDL/Riemanian_motivation.png, id=892, 946.28531pt x 536.75531pt>
+<Images/GDL/Riemanian_motivation.png, id=894, 946.28531pt x 536.75531pt>
 File: Images/GDL/Riemanian_motivation.png Graphic file (type png)
 <use Images/GDL/Riemanian_motivation.png>
 Package pdftex.def Info: Images/GDL/Riemanian_motivation.png  used on input line 101.
@@ -1489,7 +1489,7 @@ Package pdftex.def Info: Images/GDL/Riemanian_motivation.png  used on input line
 ))) [56 <./Images/GDL/Riemanian_motivation.png>]
 Ch\uhorn \ohorn ng 5.
 (chapters/GDL/3D_TFN.tex
-<Images/tong_quan_bt.png, id=899, 241.90375pt x 100.375pt>
+<Images/tong_quan_bt.png, id=901, 241.90375pt x 100.375pt>
 File: Images/tong_quan_bt.png Graphic file (type png)
 <use Images/tong_quan_bt.png>
 Package pdftex.def Info: Images/tong_quan_bt.png  used on input line 8.
@@ -1497,19 +1497,19 @@ Package pdftex.def Info: Images/tong_quan_bt.png  used on input line 8.
  [57
 
 ] [58 <./Images/tong_quan_bt.png>]
-<Images/TFN/data_img.png, id=915, 853.1875pt x 459.7175pt>
+<Images/TFN/data_img.png, id=917, 853.1875pt x 459.7175pt>
 File: Images/TFN/data_img.png Graphic file (type png)
 <use Images/TFN/data_img.png>
 Package pdftex.def Info: Images/TFN/data_img.png  used on input line 26.
 (pdftex.def)             Requested size: 375.57782pt x 202.37453pt.
  [59 <./Images/TFN/data_img.png (PNG copy)>]
-<Images/TFN/acc_re.png, id=923, 549.05125pt x 414.54875pt>
+<Images/TFN/acc_re.png, id=925, 549.05125pt x 414.54875pt>
 File: Images/TFN/acc_re.png Graphic file (type png)
 <use Images/TFN/acc_re.png>
 Package pdftex.def Info: Images/TFN/acc_re.png  used on input line 66.
 (pdftex.def)             Requested size: 328.6279pt x 248.13023pt.
  [60]
-<Images/TFN/result.png, id=931, 746.79pt x 781.92125pt>
+<Images/TFN/result.png, id=933, 746.79pt x 781.92125pt>
 File: Images/TFN/result.png Graphic file (type png)
 <use Images/TFN/result.png>
 Package pdftex.def Info: Images/TFN/result.png  used on input line 77.
@@ -1527,7 +1527,7 @@ File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ] [66]
 
 pdfTeX warning: pdflatex (file ./nhan_xet_thuc_tap.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<nhan_xet_thuc_tap.pdf, id=998, 614.295pt x 794.97pt>
+<nhan_xet_thuc_tap.pdf, id=1000, 614.295pt x 794.97pt>
 File: nhan_xet_thuc_tap.pdf Graphic file (type pdf)
 <use nhan_xet_thuc_tap.pdf>
 Package pdftex.def Info: nhan_xet_thuc_tap.pdf  used on input line 256.
@@ -1545,7 +1545,7 @@ pdfTeX warning: pdflatex (file ./nhan_xet_thuc_tap.pdf): PDF inclusion: found PD
 
 
 pdfTeX warning: pdflatex (file ./nhan_xet_thuc_tap.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<nhan_xet_thuc_tap.pdf, id=1001, page=1, 614.295pt x 794.97pt>
+<nhan_xet_thuc_tap.pdf, id=1003, page=1, 614.295pt x 794.97pt>
 File: nhan_xet_thuc_tap.pdf Graphic file (type pdf)
 <use nhan_xet_thuc_tap.pdf, page 1>
 Package pdftex.def Info: nhan_xet_thuc_tap.pdf , page1 used on input line 256.
@@ -1581,17 +1581,17 @@ Package logreq Info: Writing requests to 'main_New.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46674 strings out of 474486
- 1026388 string characters out of 5755486
+ 46676 strings out of 474486
+ 1026402 string characters out of 5755486
  1946166 words of memory out of 5000000
  68043 multiletter control sequences out of 15000+600000
  579579 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,17n,107p,1239b,1857s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\tam\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/D/latex/mike_tex/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnbx12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vncsc10.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnr12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnr17.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnsl12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vnti12.pfb><C:/D/latex/mike_tex/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main_New.pdf (76 pages, 7607644 bytes).
+Output written on main_New.pdf (76 pages, 7608075 bytes).
 PDF statistics:
- 1161 PDF objects out of 1200 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
+ 1163 PDF objects out of 1200 (max. 8388607)
+ 190 named destinations out of 1000 (max. 500000)
  526 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -499,6 +499,7 @@ INPUT .\chapters\Intro.tex
 INPUT .\chapters\Intro.tex
 INPUT .\chapters\Intro.tex
 INPUT chapters\Intro.tex
+INPUT C:\D\latex\mike_tex\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT .\chapters\related_work.tex
 INPUT .\chapters\related_work.tex
 INPUT .\chapters\related_work.tex
@@ -514,7 +515,6 @@ INPUT .\chapters\CSLT\group_theory.tex
 INPUT .\chapters\CSLT\group_theory.tex
 INPUT .\chapters\CSLT\group_theory.tex
 INPUT chapters\CSLT\group_theory.tex
-INPUT C:\D\latex\mike_tex\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr10.tfm
 INPUT C:\D\latex\mike_tex\fonts\tfm\vntex\vnr\vnr7.tfm
 INPUT .\chapters\CSLT\TFN.tex
